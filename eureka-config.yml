@@ -3,8 +3,8 @@ server:
 
 spring:
   application:
-    # name: eureka-9001
-    name: eureka-test1
+    name: eureka-9001
+    #name: eureka-test1
 #  freemarker:
 #      template-loader-path: classpath:/templates/
 #      prefer-file-system-access: false
