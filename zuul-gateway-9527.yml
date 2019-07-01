@@ -16,7 +16,7 @@ eureka:
 
 zuul:
 #  ignored-services: microservicecloud-dept  # 将真是服务名忽略
-  prefix: /idea-a
+  prefix: /idea
   ignored-services: "*" # 将所有微服务忽略
   routes:
     dishes.serviceId: ordersystem-dishes
